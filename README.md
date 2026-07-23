@@ -9,7 +9,7 @@ The **LSTM_A_normaldata** file is used for **clear-standard-most healty** datase
 4) One-Class SVM algorithm (also use for find threshold of normal data)
 5) LSTM-Autoencoder
 
-Note: All parameter and workflow are based on assumption and need to change on unique dataset. 
+**Note:** All parameters and workflows are based on assumptions and needed to change based on unique dataset. 
 
 
 
